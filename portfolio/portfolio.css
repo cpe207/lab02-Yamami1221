@@ -34,13 +34,32 @@ body {
     padding: 10px;
 }
 
+.rickroll {
+    font-size: 10px;
+}
+
 .programming-skill {
     margin: auto;
     border: solid 5px gold;
     width: 400px;
+    margin-bottom: 10px;
 }
 
-.programming-language {
+.programming-languages {
+    margin: auto;
+    text-align: left;
+    padding-bottom: 15px;
+    width: 400px;
+}
+
+.sysadmin-skill {
+    margin: auto;
+    border: solid 5px gold;
+    width: 400px;
+    margin-top: 10px;
+}
+
+.sysadminskill-list {
     margin: auto;
     text-align: left;
     padding-bottom: 15px;
