@@ -53,6 +53,12 @@ body {
     width: 400px;
 }
 
+.colorEditor {
+    display: block;
+    width: 300px;
+    border: solid 1px black;
+}
+
 .sysadmin-skill {
     margin: auto;
     border: solid 5px gold;
