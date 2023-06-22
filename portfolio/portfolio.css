@@ -3,6 +3,7 @@ body {
     color: black;
     text-align: center;
     font-family: 'Abril Fatface';
+    cursor: url('/lab02-Yamami1221/cursor/nat1054.cur'), auto;
 }
 
 .portfolioHead {
@@ -64,4 +65,11 @@ body {
     text-align: left;
     padding-bottom: 15px;
     width: 400px;
+}
+
+.jsEx.secret {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
