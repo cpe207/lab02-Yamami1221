@@ -6,6 +6,20 @@ body {
     cursor: url('/lab02-Yamami1221/cursor/nat730.cur'), auto;
 }
 
+.my-rounded {
+    border-radius: 25px;
+}
+
+.my-rounded-left {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.my-rounded-right {
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
 .portfolioHead {
     margin: auto;
     padding: 5px;
